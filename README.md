@@ -5,8 +5,14 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ### Testando Markdown
->- *itálico*
+>1. *itálico*
 >
->>- **negrito**
+>>2. **negrito**
 >>
->>>- ***itálico mais negrito***.
+>>>3. ***itálico mais negrito***.
+>
+1. normal
+
+testando tabulação
+
+  primeira tabulação
