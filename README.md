@@ -3,3 +3,10 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+### Testando Markdown
+>- *itálico*
+>
+>>- **negrito**
+>>
+>>>- ***itálico mais negrito***.
